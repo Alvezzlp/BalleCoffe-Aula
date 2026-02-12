@@ -29,4 +29,6 @@ window.addEventListener('load', function() {
       // Caso contrário, se não for "0px", define a altura máxima do estilo do elemento MenuItems como "0px"
       MenuItems.style.maxHeight = "0px";
     }
-  }                                                                         
+  }       
+  
+  
